@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: If you use this code, please cite it as below.
+title: "Artificial Intelligence-guided Identification of Novel Colorectal Cancer Inhibitors Using Transcriptomics-based Biomarker Identification and Virtual Screening-guided Drug Discovery"
+authors:
+  - family-names: Perera
+    given-names: Veroni Juliana Perpetua
+  - family-names: Khan
+    given-names: Abbas
+  - family-names: Seng
+    given-names: Wu Yuan
+license: MIT
+repository-code: https://github.com/veroniperera/AI-Transcriptomics-for-CRC-Drug-Discovery
+version: 1.0.0
+date-released: 2026-09-24

@@ -1,0 +1,13 @@
+name: crc-pipeline
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.12
+  - rdkit>=2023.9
+  - openbabel
+  - smina
+  - vina
+  - pip
+  - pip:
+      - -r requirements.txt
